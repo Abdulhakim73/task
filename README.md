@@ -8,7 +8,7 @@ Docker development implementation for Laravel 8.\* with:
 
 ## Installation
 
-- Clone this repository ``
+- Clone this repository `https://github.com/Abdulhakim73/task`
 - Make sure you have docker installed on your local machine, you do not need to have php / mysql / redis / node installed on your machine
 - typ_command: `cp .env.example .env`
 - Run command: `docker-compose up --build -d`
